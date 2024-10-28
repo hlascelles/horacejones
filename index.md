@@ -60,4 +60,4 @@ be celebrated.
 
 Horace Jones. Architect of Tower Bridge by David Lascelles. 175pp Fully illustrated.
 Profile Editions. £18.99
-Available from Amazon and independent booksellers.
+Available from [Amazon](https://www.amazon.co.uk/Horace-Jones-Architect-Tower-Bridge/dp/1800819501) and independent booksellers.
