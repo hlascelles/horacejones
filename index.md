@@ -32,7 +32,7 @@ by Queen Victoria for services to the City.
 So why is he not better known?
 
 One reason is that many people in the architectural profession look down on him. They see him as
-a local authority engineer, competent but lacking in artistry, and do nothing to
+a local authority engineer, competent but lacking in artistry, and they do nothing to
 promote him. They consider that buildings like Tower Bridge belong to Disneyland
 rather than the realm of serious architecture. When Jones applied to become
 President of the prestigious Royal Institute of British Architects, they turned him
