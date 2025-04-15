@@ -9,9 +9,18 @@
   <meta name="author" content="David Lascelles">
   <style>
     @import url('https://fonts.googleapis.com/css?family=Lobster|EB+Garamond');
-
+    hr {
+      border: none;
+      height: 1px;
+      color: #333;  /* old IE */
+      background-color: #333;  /* Modern Browsers */
+    }
     h1, h2, h3, h4, h5, h6 {
       font-family: 'EB Garamond', serif;
+    }
+
+    h2 {
+      margin-top: 40px;
     }
 
     /* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
@@ -59,14 +68,19 @@
       display: block;
       margin-left: auto;
       margin-right: auto;
-      margin-top: 50px;
-      margin-bottom: 50px;
     }
 
     @media (min-width: 1200px) {
         .container{
-            max-width: 800px;
+            max-width: 1200px;
         }
+    }
+
+    .menu {
+      li {
+        margin-bottom: 20px;
+        font-size: 22px;
+      }
     }
   </style>
   {% if site.google_analytics and jekyll.environment == 'production' %}
