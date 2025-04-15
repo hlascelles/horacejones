@@ -82,6 +82,18 @@
         font-size: 22px;
       }
     }
+
+    .video {
+      .video-container {
+          display: flex;
+          justify-content: center;
+      }
+
+      iframe {
+          aspect-ratio: 16 / 9;
+          width: 100% !important;
+      }
+    }
   </style>
   {% if site.google_analytics and jekyll.environment == 'production' %}
   <script>
